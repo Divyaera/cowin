@@ -4,7 +4,7 @@
 ## 3. Goto website https://kvdb.io/ and click on Get Started Now
   - ![image](https://user-images.githubusercontent.com/24732635/120367718-d686c300-c32e-11eb-879f-9d4d55886f2f.png) - ![image](https://user-images.githubusercontent.com/24732635/120367824-f61deb80-c32e-11eb-8cc7-5e0c48ea707c.png)
   - Copy the kvdb.io bucket key, eg: SdgQXXWXNWhDzMqqT4D5Mx
-  - ![image](https://user-images.githubusercontent.com/24732635/120367909-0cc44280-c32f-11eb-9a6d-7c142902ffe1.png)
+  - ![image](https://user-images.githubusercontent.com/24732635/120544821-76b21a00-c40b-11eb-9dc0-8b1849762a92.png)
 
 ## 4. For Android users, install IFTTT app and create applet to read CoWIN OTPs.
   - Follow these steps:
