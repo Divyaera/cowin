@@ -8,14 +8,8 @@
 
 ## 4. For Android users, install IFTTT app and create applet to read CoWIN OTPs.
   - Follow these steps:
-  - ![image](https://user-images.githubusercontent.com/24732635/120359273-1f397e80-c325-11eb-94f4-5deaf0cdea12.png) - ![image](https://user-images.githubusercontent.com/24732635/120359428-47c17880-c325-11eb-898d-b12bf41201a2.png) - ![image](https://user-images.githubusercontent.com/24732635/120359553-6cb5eb80-c325-11eb-9846-389ae25c68f4.png)
-  - ![image](https://user-images.githubusercontent.com/24732635/120359485-590a8500-c325-11eb-950e-d49ade4ab3c8.png) - ![image](https://user-images.githubusercontent.com/24732635/120359645-87886000-c325-11eb-9f18-a9065bf328b8.png) - ![image](https://user-images.githubusercontent.com/24732635/120359682-953de580-c325-11eb-9733-92369429c248.png)
-  - ![image](https://user-images.githubusercontent.com/24732635/120359743-ab4ba600-c325-11eb-995f-d85766ffca62.png) - ![image](https://user-images.githubusercontent.com/24732635/120359831-c0c0d000-c325-11eb-860d-2f231ebd6dcc.png) - ![image](https://user-images.githubusercontent.com/24732635/120367198-329d1780-c32e-11eb-9b1c-0992917b862a.png)
-  - ![image](https://user-images.githubusercontent.com/24732635/120367277-4cd6f580-c32e-11eb-9bce-963be0c99827.png) - ![image](https://user-images.githubusercontent.com/24732635/120367323-58c2b780-c32e-11eb-99d9-2f855bbd62c0.png) - ![image](https://user-images.githubusercontent.com/24732635/120367526-99bacc00-c32e-11eb-9173-5c9d2aae3223.png)
-  -  ##Paste your kvdb.io weblink in URL. Select method as PUT and Content Type - text/plain, and follow below steps:
-  - ![image](https://user-images.githubusercontent.com/24732635/120369276-a809e780-c330-11eb-9f89-715c8528ed78.png)
-  - ![image](https://user-images.githubusercontent.com/24732635/120368564-d509ca80-c32f-11eb-97c2-a8d3d835bfea.png) ![image](https://user-images.githubusercontent.com/24732635/120368699-01bde200-c330-11eb-94ac-4bdacf39fc19.png) ![image](https://user-images.githubusercontent.com/24732635/120368718-084c5980-c330-11eb-979f-24d52039345f.png)
-  - Now the applet is running:![image](https://user-images.githubusercontent.com/24732635/120368768-1ac69300-c330-11eb-9faf-5e8836881b49.png)
+  - Download and install CoWinOtpRetreiver.apk in your device: https://github.com/Divyaera/cowin/raw/main/CoWinOtpRetreiver.apk
+  - ![image](https://user-images.githubusercontent.com/24732635/120542805-2a65da80-c409-11eb-82a4-e348a63ed3db.png)
 
 ## 5. For iOS users, use Shortcuts app to read CoWIN OTPs.
   - Follow these steps:
