@@ -17,7 +17,7 @@
   - ![image](https://user-images.githubusercontent.com/24732635/120359016-d5e92f00-c324-11eb-81c9-3e43e64e0f09.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120359058-e0a3c400-c324-11eb-80a3-1145fac0f8ab.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120359099-ebf6ef80-c324-11eb-8647-ae9e2b55b7e0.png)
-## 6. Download this project and run "CoWIN Booking.bat"
+## 6. Download this project, unzip and run "CoWIN Booking.exe" present inside CoWIN Booking folder: https://github.com/Divyaera/cowin/archive/refs/heads/main.zip
 
 
 
