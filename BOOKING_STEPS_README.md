@@ -1,4 +1,5 @@
-# CoWIN vaccination slot booking steps: FULLY AUTOMATED
+# CoWIN vaccination slot booking steps: FULLY AUTOMATED 
+# DEMO YT Video - https://youtu.be/SRlmfvs45ag
 ## 1. Register on CoWIN website: https://selfregistration.cowin.gov.in/
 ## 2. Add members in the website 
 ## 3. Goto website https://kvdb.io/ and click on Get Started Now
@@ -18,6 +19,7 @@
   - ![image](https://user-images.githubusercontent.com/24732635/120359058-e0a3c400-c324-11eb-80a3-1145fac0f8ab.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120359099-ebf6ef80-c324-11eb-8647-ae9e2b55b7e0.png)
 ## 6. Download this project, unzip and run "CoWIN Booking.exe": https://github.com/Divyaera/cowin/archive/refs/heads/main.zip
+
 
 
 
